@@ -492,12 +492,12 @@ footer {
     margin: 0px;
 }
 
-.footer .footer-right p span {
+/* .footer .footer-right p span {
     display: block;
     font-weight: normal;
     font-size: 14px;
     line-height: 2;
-}
+} */
 
 .footer .footer-right p a {
     color: rgb(240, 248, 254);
